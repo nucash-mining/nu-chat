@@ -6,7 +6,7 @@ import { ethers } from "ethers";
 import { abi } from "./abi";
 
 // Add the contract address inside the quotes
-const CONTRACT_ADDRESS = "0xF02C9B63dDaA173AA8a7794B559200A3f0418E92"; 
+const CONTRACT_ADDRESS = "0x64B41c176bC66A10ee050f598bd5b25059405Cac"; 
 
 export function App( props ) {  
     const [friends, setFriends] = useState(null);
